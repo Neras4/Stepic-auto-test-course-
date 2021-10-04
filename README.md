@@ -1,2 +1,2 @@
-# Stepik-auto-test-course-
+# Stepic-auto-test-course-
 all test tasks from course 
